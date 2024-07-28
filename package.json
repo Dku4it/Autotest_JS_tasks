@@ -1,0 +1,13 @@
+{
+    "name": "task-runner",
+    "version": "1.0.0",
+    "description": "Run tasks using npm scripts",
+    "main": "task_4.js",
+    "scripts": {
+      "task2": "node task3_2.js",
+      "task3": "node task3_3_CurrentTime30s.js",
+      "start": "npm run task2 && npm run task3"
+    },
+    "author": "",
+    "license": ""
+  }
