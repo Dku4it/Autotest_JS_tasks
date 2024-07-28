@@ -3,7 +3,7 @@
 
 function printFibonacciSequence(N) {
     if (N <= 0) {
-        console.log("N number must be greater than 0")
+        console.log('N number must be greater than 0')
         return
     }
 
