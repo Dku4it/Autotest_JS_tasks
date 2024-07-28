@@ -13,7 +13,7 @@ async function processDirectory(directory) {
         for (const file of files) {
             const filePath = path.join(directory, file)
             const content = await fs.readFile(filePath, 'utf8')
-            if (content === '') {
+            if (content == '') {
                 console.log('Empty file:', file)
             }
         }
@@ -24,5 +24,5 @@ async function processDirectory(directory) {
 
 
 
-const directoryPath = './Task3'
+const directoryPath = './Task3/Files'
 processDirectory(directoryPath)
