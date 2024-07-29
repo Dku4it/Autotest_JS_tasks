@@ -1,3 +1,18 @@
+// Implement numbers Counter class (as a Singleton) which has inc(), dec() and get() methods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

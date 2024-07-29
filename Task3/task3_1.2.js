@@ -1,3 +1,20 @@
+// create a function, that takes a directory name as argument and return file names in callback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const fs = require('fs')
 const path = require('path')
 

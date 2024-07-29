@@ -1,6 +1,17 @@
+// read file 'file_12' using 'fs' module and:
+//          print to console result as object;
+//          print cities that has word length >= 6 symbols.
+
+
+
 
 
 // Error parsing JSON data
+
+
+
+
+
 
 
 const fs = require('fs');

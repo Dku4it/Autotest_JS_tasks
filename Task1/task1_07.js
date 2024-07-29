@@ -1,3 +1,16 @@
+// Have an array 1..10;
+//    Task: create 2 functions:
+//          - function A that return a sum of array;
+//          - function B that return a sum of even elements in callback (make a 2 variants of callback)
+
+
+
+
+
+
+
+
+
 
 
 

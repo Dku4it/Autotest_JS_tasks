@@ -1,3 +1,24 @@
+// Assuming you have to perform three long operations concurrently.
+// - Create a Promise for each operation.
+// - Create a Promise resolved only after all three promises above will be resolved.
+// - Create a Promise resolved when any of the above promises will be resolved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function longOperation1() {
     return new Promise((resolve) => {
         setTimeout(() => {
